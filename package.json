@@ -1,0 +1,38 @@
+{
+  "name": "codehub",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8386",
+    "build": "next build",
+    "start": "next start -p 8386",
+    "export": "npm run build && next export"
+  },
+  "homepage": ".",
+  "dependencies": {
+    "@ant-design/icons": "^4.2.1",
+    "@emotion/core": "^10.0.28",
+    "@material-ui/core": "^4.10.1",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "antd": "^4.4.2",
+    "bootstrap": "^3.4.1",
+    "clsx": "^1.1.1",
+    "dayjs": "^1.8.31",
+    "emotion-theming": "^10.0.27",
+    "js-cookie": "^2.2.1",
+    "next": "9.4.4",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-cookie": "^4.0.3",
+    "react-dom": "16.13.1",
+    "react-hook-form": "^5.7.2",
+    "react-iframe": "^1.8.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "recharts": "^1.8.5",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {}
+}

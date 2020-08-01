@@ -1,0 +1,11 @@
+--2020-07-25 10:38:12--  https://login.partner.microsoftonline.cn/e20c4664-0335-46c1-8043-3c1b77fac445/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000
+Resolving login.partner.microsoftonline.cn (login.partner.microsoftonline.cn)... 139.217.118.25, 139.217.118.46, 139.217.118.54, ...
+Connecting to login.partner.microsoftonline.cn (login.partner.microsoftonline.cn)|139.217.118.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 171157 (167K) [text/html]
+Saving to: ‘authorize?client_id=00000003-0000-0ff1-ce00-000000000000’
+
+               authorize?clie   0%[                                                  ]       0  --.-KB/s               authorize?client_id=00000003- 100%[=================================================>] 167.15K  --.-KB/s    in 0.07s   
+
+2020-07-25 10:38:12 (2.30 MB/s) - ‘authorize?client_id=00000003-0000-0ff1-ce00-000000000000’ saved [171157/171157]
+
